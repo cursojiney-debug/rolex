@@ -1,0 +1,19 @@
+{
+    "versionName": "1.4.8",
+    "versionCode": 2013,
+    "apkFile": "ROLEX-1.4.8-arm64-v8a.apk",
+    "apkUrl": "https://raw.githubusercontent.com/cursojiney-debug/rolex/main/apks/ROLEX-1.4.8-arm64-v8a.apk",
+    "size": 28612856,
+    "sha256": "883a25943137a9182cf49846fcaf517ec75a21cc55391157336310c417cd7a23",
+    "notes": "Fullscreen video no longer freezes the app. Back now follows real browser history, file uploads work from inside the app, and pull-to-refresh is available on every screen. Lectures downloaded before this update open again (older formats are read too), downloads show live speed, size and time left, videos gain playback speed up to 4.5x, double-tap seek, frame screenshots saved to DCIM/ROLEX, and a richer PDF reader with page jump, fit-width and save to gallery.",
+    "mandatory": false,
+    "publishedAt": "2026-10-21",
+    "apks": {
+        "arm64-v8a": {
+            "file": "ROLEX-1.4.8-arm64-v8a.apk",
+            "url": "https://raw.githubusercontent.com/cursojiney-debug/rolex/main/apks/ROLEX-1.4.8-arm64-v8a.apk",
+            "size": 28612856,
+            "sha256": "883a25943137a9182cf49846fcaf517ec75a21cc55391157336310c417cd7a23"
+        }
+    }
+}
